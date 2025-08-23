@@ -1,6 +1,6 @@
 # Pacman-style game in Swing
 
-> Project for the GUI course in the 2nd semester at the Polish-Japanese Academy of Information Technology (PJAIT).
+> Project for the GUI course in the 2nd semester 1 year at the Polish-Japanese Academy of Information Technology (PJAIT).
 [![Java](https://img.shields.io/badge/Java-21+-red.svg)]()
 
 ## Features
